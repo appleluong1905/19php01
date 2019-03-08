@@ -59,3 +59,11 @@ footer {
 	text-align: center;
 	line-height: 150px;
 }
+.footer_left .logo {
+	height: 150px;
+	width: 399px;
+	line-height: 150px;
+}
+.banner, #content {
+	color: green;
+}

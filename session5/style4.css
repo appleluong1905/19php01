@@ -1,0 +1,15 @@
+@font-face {
+	font-family: myNewFont;
+  src: url('fonts/Aclonica.ttf');
+}
+.demo1 {
+	width: 600px;
+	border: 1px solid green;
+	font-family: "myNewFont";
+	font-size: 25px;
+	font-weight: bold;
+	font-style: italic;
+	text-indent: 30px;
+	text-align: justify;
+	padding: 10px;
+}

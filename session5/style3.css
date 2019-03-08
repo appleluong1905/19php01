@@ -13,7 +13,7 @@ header {
 	float: left;
 	text-align: center;
 	line-height: 100px;
-	color: red;
+	color: red   !important;
 	border-right: 1px solid green;
 }
 .banner {
@@ -59,6 +59,7 @@ footer {
 	height: 150px;
 	width: 100%;
 	line-height: 150px;
+	color: blue;
 }
 .banner, #content {
 	color: green;

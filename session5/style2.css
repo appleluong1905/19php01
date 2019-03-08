@@ -14,6 +14,7 @@ header {
 	float: left;
 	text-align: center;
 	line-height: 100px;
+	color: red;
 }
 .banner {
 	width: 494px;

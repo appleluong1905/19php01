@@ -12,4 +12,13 @@
 	text-indent: 30px;
 	text-align: justify;
 	padding: 10px;
+	color: green;
+	text-transform: uppercase;
+}
+.demo2 {
+	color: red;
+	font-size: 50px;
+	font-weight: bold;
+	text-decoration: line-through;
+	text-shadow: 7px -3px 6px grey;
 }

@@ -9,3 +9,8 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+.demo2 {
+	height: 300px;
+	width: 600px;
+	background-image: linear-gradient(to left, green , blue);
+}

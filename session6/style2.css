@@ -1,0 +1,17 @@
+body {
+	background-image: linear-gradient(to bottom, #F2E0F7 , #F5A9BC);
+	min-height: 700px;
+}
+.container {
+	width: 600px;
+	border: 1px solid grey;
+	height: 500px;
+	margin: 0 auto;
+	border-radius: 30px;
+	box-shadow: 12px 7px 6px grey;
+	background-color: #fff;
+}
+h1 {
+	padding: 20px;
+	color: green;
+}

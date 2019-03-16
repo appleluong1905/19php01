@@ -1,9 +1,15 @@
 body {
 	background-color: red;
 }
+h1 {
+	color: blue;
+}
 @media screen and (max-width: 768px) {
 	body {
 		background-color: green;
+	}
+	h1 {
+		color: yellow;
 	}
 }
 @media screen and (max-width: 600px) {

@@ -1,0 +1,15 @@
+a {
+	color: red;
+	text-decoration: none;
+}
+
+a:visited {
+	color: green;
+}
+
+a:hover {
+	color: yellow;
+}
+#about, #contact, #product, #map {
+	height: 500px;
+}

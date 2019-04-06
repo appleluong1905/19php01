@@ -10,7 +10,8 @@ function checkMyName() {
 		var FirstName = name.substring(0, spaceFirstName);
 		var MidName = name.substring(spaceFirstName, spaceLastName);
 		var LastName = name.substring(spaceLastName, name.length);
-		document.getElementById('ex1').innerHTML = 'Ho la: '+ FirstName + ' <br> Ten dem la: '
+		document.getElementById('ex1').innerHTML = 'Ho la: '+ 
+			FirstName + ' <br> Ten dem la: '
 			+ MidName + '<br> Ten la: ' + LastName;
 	}
 

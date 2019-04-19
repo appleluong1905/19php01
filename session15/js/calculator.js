@@ -10,6 +10,12 @@ function addValue(value) {
 
 function calValue() {
 	result = eval(resultValue);
+
 	document.getElementById('result').innerHTML = result;
+
 	resultValue = result;
+}
+function delValue() {
+	document.getElementById('result').innerHTML = 0;
+	resultValue = "";
 }
